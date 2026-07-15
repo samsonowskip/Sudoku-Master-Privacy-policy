@@ -1,5 +1,58 @@
-PL
-Polityka prywatności — Sudoku Master
-Sudoku Master nie zbiera, nie przechowuje ani nie udostępnia żadnych danych osobowych. Wszystkie zapisy gry, statystyki i biblioteka łamigłówek są przechowywane wyłącznie lokalnie na Twoim urządzeniu. Aplikacja nie wymaga logowania ani konta.
-Jedyna funkcja wymagająca połączenia z internetem to skanowanie fizycznych plansz sudoku aparatem (funkcja Beta) — zdjęcie jest przetwarzane w całości na urządzeniu; nie jest wysyłane na żaden serwer. Aplikacja pobiera jedynie bibliotekę do rozpoznawania tekstu (open-source, z publicznego CDN), nie Twoje dane.
-W razie pytań: samsonowski.p@gmail.com
+# Privacy Policy for Sudoku Master
+
+**Last updated: July 2026**
+
+Sudoku Master ("the App") is developed and published by us with. This Privacy Policy explains what information the App collects, how it is used, and the choices you have.
+
+## Summary
+Sudoku Master is designed to work fully offline. By default, we do not collect, store, or share any personal data. Some optional features described below — signing in with Google to sync your progress, and a one-time Premium purchase — involve limited data handled by Google on our behalf.
+
+## Information We Collect
+
+### Data stored only on your device
+By default, all of your game data stays on your device and is never sent to us or anyone else. This includes:
+- Game progress, saved and paused rounds
+- Statistics and completion history
+- Your Puzzle Library (custom, imported, and scanned puzzles)
+- App settings (theme, sound, language, etc.)
+
+We have no access to this data and cannot retrieve it if you uninstall the App or clear its storage.
+
+### Optional Google Sign-In (cloud sync, leaderboards, daily puzzles)
+The App offers, or will offer, an optional "Sign in with Google Play Games" feature. This is never required to play the App — it is only used if you choose to enable it, for features such as:
+- Backing up your progress and statistics to the cloud, so they can be restored on another device
+- Daily challenge puzzles
+- Public leaderboards
+
+If you choose to sign in, Google Play Games Services shares with us your Google Play Games player ID and public display name/avatar, so we can associate your saved data and (where applicable) leaderboard score with your account. We do not receive your Google account password, email address, or any data from other apps.
+
+Leaderboard participation, if and when introduced, is optional. Any score or display name you choose to show on a leaderboard may be visible to other players of the App.
+
+You can revoke the App's access to your Google Play Games account at any time through your Google Account settings, and you can request deletion of any cloud-saved data by contacting us (see "Contact Us" below).
+
+### Camera / Physical Board Scanning (Beta)
+The App includes an optional feature that lets you take a photo of a printed Sudoku puzzle to digitize it. This photo is processed entirely on your device — it is never uploaded to us or to any server. The only network activity involved is a one-time download of an open-source text-recognition library (Tesseract.js) from a public content delivery network (CDN), which does not receive any of your personal data or photos.
+
+### In-App Purchase (Premium / Pro)
+The App offers, or will offer, an optional one-time purchase ("Premium" or "Pro") that unlocks additional features (such as the Auto-Solver and Puzzle Library). Purchases are processed entirely by Google Play Billing. We do not receive or store your payment card details or billing address — Google handles payment information according to its own privacy policy, available at https://policies.google.com/privacy. We only receive confirmation that a purchase was completed, so the App can unlock the corresponding features on your device (or account, if signed in).
+
+## Data We Do Not Collect
+We do not collect advertising identifiers, and the App does not display third-party ads. We do not use analytics or tracking SDKs.
+
+## Children's Privacy
+Sudoku Master is a general-audience puzzle game and is not directed at children under 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information (for example, through a signed-in Google account), please contact us so we can address it.
+
+## Data Security
+Locally stored data is protected by your device's own operating system security. Where the App interacts with Google services (Sign-In, Play Games Services, Play Billing), those services are protected by Google's own security practices.
+
+## Third-Party Services
+The App may use the following third-party services, each governed by its own privacy policy:
+- **Google Play Games Services** (optional sign-in, cloud save, leaderboards) — https://policies.google.com/privacy
+- **Google Play Billing** (one-time Premium purchase) — https://policies.google.com/privacy
+- **jsDelivr CDN** (delivers the open-source OCR library used only for the on-device board-scanning feature) — https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net
+
+## Changes to This Policy
+We may update this Privacy Policy from time to time, for example as new features (such as cloud sync, daily puzzles, or leaderboards) are released. Changes will be posted at this same location with an updated "Last updated" date. Continued use of the App after a change means you accept the updated policy.
+
+## Contact Us
+If you have any questions about this Privacy Policy, or want to request deletion of any cloud-saved data associated with your account, please contact us at: samsi.appcontact@gmail.com
