@@ -1,0 +1,5 @@
+PL
+Polityka prywatności — Sudoku Master
+Sudoku Master nie zbiera, nie przechowuje ani nie udostępnia żadnych danych osobowych. Wszystkie zapisy gry, statystyki i biblioteka łamigłówek są przechowywane wyłącznie lokalnie na Twoim urządzeniu. Aplikacja nie wymaga logowania ani konta.
+Jedyna funkcja wymagająca połączenia z internetem to skanowanie fizycznych plansz sudoku aparatem (funkcja Beta) — zdjęcie jest przetwarzane w całości na urządzeniu; nie jest wysyłane na żaden serwer. Aplikacja pobiera jedynie bibliotekę do rozpoznawania tekstu (open-source, z publicznego CDN), nie Twoje dane.
+W razie pytań: samsonowski.p@gmail.com
