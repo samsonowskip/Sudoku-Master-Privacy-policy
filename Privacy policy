@@ -2,7 +2,7 @@
 
 **Last updated: July 2026**
 
-Sudoku Academy is developed and published by me. This Privacy Policy explains what information the App collects, how it is used, and the choices you have.
+Sudoku Academy ("the App") is developed and published by [Your Name / Company Name] ("we", "us", "our"). This Privacy Policy explains what information the App collects, how it is used, and the choices you have.
 
 ## Summary
 
@@ -21,6 +21,16 @@ The App offers an optional "Sign in with Google Play Games" feature, available i
 If you choose to sign in, Google Play Games Services shares with us your Google Play Games player ID and public display name, so we can record which achievements you've unlocked and your score on the puzzle-count leaderboard through Google's own systems. We do not receive your Google account password, email address, or any data from other apps.
 
 The leaderboard shows a running total of puzzles you've solved. Your display name and score on it may be visible to other players who also use Google Play Games. You can manage or revoke the App's access to your Google Play Games account at any time through your Google Account settings.
+
+### Account & Data Deletion
+Sudoku Academy does not maintain its own account system — the optional sign-in is entirely managed by Google Play Games Services. To delete the data associated with your Play Games profile for this app (your player ID, unlocked achievements, and leaderboard score):
+
+1. Open the **Google Play Games** app (or Play Games Services settings within Google Play), go to your profile, and remove/unlink Sudoku Academy, **or** delete your Google Play Games profile entirely through your Google Account settings at https://myaccount.google.com/.
+2. This removes your achievements and leaderboard entry for this app from Google's systems. We never held a separate copy of this data ourselves.
+
+All other data (game progress, statistics, Puzzle Library) lives only on your device — uninstalling the App or clearing its storage deletes it immediately and completely; there is no retention period, since we never had a copy to begin with.
+
+If you have any trouble with the above or want guidance, contact us at the email below.
 
 ### Camera / Physical Board Scanning (Beta)
 The App includes an optional feature that lets you take a photo of a printed Sudoku puzzle to digitize it. This photo is processed entirely on your device — it is never uploaded to us or to any server. The only network activity involved is a one-time download of an open-source text-recognition library (Tesseract.js) from a public content delivery network (CDN), which does not receive any of your personal data or photos.
@@ -55,4 +65,4 @@ We may update this Privacy Policy from time to time — for example, if we add c
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-samsi.appcontact@gmail.com
+**[your-email@example.com]**
